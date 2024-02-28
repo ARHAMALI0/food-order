@@ -1,4 +1,4 @@
-import streamlit as st
+st
 
 # Function to display about us information
 def about_us():
@@ -29,4 +29,3 @@ def main():
         contact_us()
 
 if __name__ == "__main__":
-    main()
